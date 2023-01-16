@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Lilyprograms/react-app.git/static/css/main.26e62c79.css",
-    "main.js": "/Lilyprograms/react-app.git/static/js/main.ce00837d.js",
-    "index.html": "/Lilyprograms/react-app.git/index.html",
-    "main.26e62c79.css.map": "/Lilyprograms/react-app.git/static/css/main.26e62c79.css.map",
-    "main.ce00837d.js.map": "/Lilyprograms/react-app.git/static/js/main.ce00837d.js.map"
+    "main.css": "/react-app/static/css/main.26e62c79.css",
+    "main.js": "/react-app/static/js/main.913d51e9.js",
+    "index.html": "/react-app/index.html",
+    "main.26e62c79.css.map": "/react-app/static/css/main.26e62c79.css.map",
+    "main.913d51e9.js.map": "/react-app/static/js/main.913d51e9.js.map"
   },
   "entrypoints": [
     "static/css/main.26e62c79.css",
-    "static/js/main.ce00837d.js"
+    "static/js/main.913d51e9.js"
   ]
 }
